@@ -1,5 +1,5 @@
 # Find My Friends
-A simple react application to search the list of friends fetched from an external API.
+A simple react and redux based application to search the list of friends fetched from an external API.
 
 To run the project follow the steps below:
 
